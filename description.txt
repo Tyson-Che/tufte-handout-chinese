@@ -1,0 +1,3 @@
+Tufte Handout Chinese is a modified version of the Tufte Handout class
+designed for Chinese documents. It adapts the elegant Tufte style to
+work seamlessly with Chinese typography and language requirements.
